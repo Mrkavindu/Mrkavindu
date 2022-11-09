@@ -53,4 +53,14 @@ div {
 </body>
 </html>
 
-
+<form>
+  <label>
+    <input type="text" required />
+    <div class="label-text">First name</div>
+  </label>
+  <label>
+    <input type="text" required />
+    <div class="label-text">Last name</div>
+  </label>
+  <button>Submit</button>
+</form>
