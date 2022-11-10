@@ -23,6 +23,8 @@ Skills: VUE /JS  / HTML / php/css/
 
 - 🔭 I’m currently working on this page. 
 
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">,I'm<br>MR 𝙠𝙖𝙫𝙞𝙣𝙙𝙪</h1>
+<h3 align="center">¯\_(ツ)_/¯
 
 
 
