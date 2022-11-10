@@ -9,3 +9,20 @@ Mrkavindu/Mrkavindu is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
+### Hi there 👋, my name is kavindu sathsara
+#### I am GitHub 
+![I am GitHub ](https://modskavindu7.wixsite.com/mrkavindu)
+
+My birthday is 2006
+My country is Sri Lanka
+My village is Badalkumbura
+Hit me up if you like my projects
+
+
+Skills: VUE /JS  / HTML / php/css/
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
